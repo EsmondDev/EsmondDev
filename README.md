@@ -1,4 +1,4 @@
-### Helping to facilitate and improve Ghana's ICT in a growing virtual world 👋
+### Helping to facilitate and improve Ghana's ICT in a growing virtual world
 
 <!--
 **EsmondDev/EsmondDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
